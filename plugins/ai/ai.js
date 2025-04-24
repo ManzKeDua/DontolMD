@@ -37,7 +37,7 @@ let handler = async (m, {
         throw `*can't get response from ai \n• Syntax: ${e}*`;
     }
 };
-handler.help = ["ai", "chatgpt", "openai", "gemini"].map((a) => a + " *[prompt]*");
+handler.help = ["ai", "chatgpt", "openai", "gemini"]
 handler.tags = ["ai"];
 handler.command = ["ai", "chatgpt", "openai", "gemini"];
 module.exports = handler;
@@ -46,7 +46,7 @@ async function AiGpt(prompt = prompt, assistant = null) {
     chatCompletion = await client.chat.completions.create({
         messages: [{
                 role: "system",
-                content: `Hallo! How can I assist you today?. I Am Ai creted by Nazir. Time ${moment.tz("Asia/Makassar")}`
+                content: `Hallo! How can I assist you today?. I Am Ai creted by manzxy. Time ${moment.tz("Asia/Jakarta")}`
             },
             {
                 role: "assistant",
