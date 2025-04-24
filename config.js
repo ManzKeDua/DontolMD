@@ -15,6 +15,7 @@ global.nomorowner = "6288989721627";
 global.namebot = "Almarhum Dontol";
 global.gc = [""];
 global.swa = "wa.me/6288989721627";
+global.wem = "© dontol-md v${require("../../package.json").version}";
 global.fastbit_apikey = "";
 global.version = "3.2.4";
 global.wm = "© manzxy";
