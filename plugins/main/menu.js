@@ -10,6 +10,7 @@ const defaultMenu = {
  Welcome to Dashboard Bot !
  
 *\`– U S E R\`*
+
 ┌  ◦  *Name:* %name
 │  ◦ *Status:* %vips
 └  ◦  *Limit:* %limit
