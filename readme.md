@@ -7,6 +7,10 @@
 </p>
 <p align="center">
 <a href="https://chat.whatsapp.com/EGCYoCMmvQ2FGNcLNOjYyj"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Bot-green.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Nazir99inf/simple-base"><img 
+title="Base Script" src="https://img.shields.io/badge/Base Script-green.svg?style=for-the-badge&logo=github"></a>
  
 ## kelebihan
 ```javascript
