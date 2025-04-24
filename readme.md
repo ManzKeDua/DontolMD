@@ -1,4 +1,4 @@
-# **Simple Base** 
+# **DontolMD** 
 ## kelebihan
 ```javascript
 easy codding
