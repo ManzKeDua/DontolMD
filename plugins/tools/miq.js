@@ -1,8 +1,3 @@
-//Simple Base Botz
-// • Credits : wa.me/6285822146627 [ Nazir ]
-// • Feature : tools/miq
-
-
 const axios = require('axios');
 
 const miq = {
