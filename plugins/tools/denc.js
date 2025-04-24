@@ -15,7 +15,7 @@ module.exports = {
     m.reply(message);
   },
 
-  help: ["denc", "dencrypt"].map((a) => a + " *[input/reply code]*"),
+  help: ["denc", "dencrypt"]
   tags: ["tools"],
   command: ["denc", "dencrypt"],
 };
