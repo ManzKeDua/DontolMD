@@ -10,7 +10,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Nazir99inf/simple-base"><img 
-title="Grup" src="https://img.shields.io/badge/Base Script-green.svg?style=for-the-badge&logo=github"></a>
+title="Base Script" src="https://img.shields.io/badge/Base Script-black.svg?style=for-the-badge&logo=github"></a>
  
 ## kelebihan
 ```javascript
