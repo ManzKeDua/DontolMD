@@ -204,7 +204,7 @@ const omiHelp = async (m, {
             text: text,
             contextInfo: {
                 externalAdReply: {
-                    title: 'DontolMD',
+                    title: 'dontol-md v${require('../../package.json').version}',
                     body: 'made by manzxy',
                     thumbnailUrl: 'https://files.catbox.moe/ol1d3u.jpg',
                     sourceUrl: 'https://chat.whatsapp.com/JHyfuisJfu38QB0CX0mKUx',
