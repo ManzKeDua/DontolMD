@@ -6,7 +6,7 @@ let handler = async (m, {
     command
 }) => {
         let data = await axios
-            .get("https://api.github.com/repos/Nazir99inf/simple-base")
+            .get("https://api.github.com/repos/ManzKeDua/DontolMD")
             .then((a) => a.data);
         let cap = "*– 乂 Informasi - Script Bot*\n";
         cap += `🧩 *Name:* ${data.name}\n`;
@@ -22,12 +22,11 @@ let handler = async (m, {
             "*TypePlugins*\n" +
             "*Low Size*\n" +
             "*90% Ussing Scrape*\n" +
-            "*Support Button*\n" +
             "*No Encrypt*\n\n";
         cap += "Script ini gratis, boleh kalian recode asal jangan hapus credit original dari kami!";
         await m.reply(cap);
         };
-handler.help = ["sc", "script"].map((a) => a + " *[Information Script]*");
+handler.help = ["sc", "script"]
 handler.tags = ["downloader"];
 handler.command = ["sc", "script""];
 
