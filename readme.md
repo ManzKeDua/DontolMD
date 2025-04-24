@@ -6,7 +6,7 @@
 <a href="https://wa.me/6288989721627"><img title="Grup" src="https://img.shields.io/badge/Contact to Owner-black.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
-<a href="https://chat.whatsapp.com/FEC02UQASXgCexp81C0rfu"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Bot-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://chat.whatsapp.com/FEC02UQASXgCexp81C0rfu"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Bot-black.svg?style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Nazir99inf/simple-base"><img 
