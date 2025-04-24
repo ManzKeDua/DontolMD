@@ -13,9 +13,9 @@ global.nomorowner = "6288989721627";
 
 /*--------[ BOT SETTING ]------------*/
 global.namebot = "Almarhum Dontol";
-global.gc = ["120363418664547139@g.us", "120363378386141988@g.us"];
+global.gc = [""];
 global.swa = "wa.me/6288989721627";
-global.fastbit_apikey = "u1GD0zWkmyq1TSGMO2DBetUWW0s0BC4V";
+global.fastbit_apikey = "";
 global.version = "3.2.4";
 global.wm = "© manzxy";
 global.isPairing = true;
