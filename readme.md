@@ -1,5 +1,5 @@
 # **DontolMD** 
-![cover](https://telegra.ph/file/872a4233d6d8548206c88.jpg)
+![cover](https://files.catbox.moe/ol1d3u.jpg)
 
 ## kelebihan
 ```javascript
