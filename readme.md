@@ -1,4 +1,6 @@
 # **DontolMD** 
+![cover](https://telegra.ph/file/872a4233d6d8548206c88.jpg)
+
 ## kelebihan
 ```javascript
 easy codding
