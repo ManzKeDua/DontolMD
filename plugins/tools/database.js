@@ -14,8 +14,7 @@ const handler = async (m, { conn, text, command, usedPrefix }) => {
   msgs[text] = M.fromObject(await m.getQuotedObj()).toJSON();
   m.reply(`Sucess Added Message : *[ ${text} ]*`.trim());
 };
-handler.help = ["vn", "msg", "video", "audio", "img", "stiker", "gif"].map(
-  (v) => "add" + v + " *[input text]*",
+handler.help = ["vn", "msg", "video", "audio", "img", "stiker", "gif"]
 );
 handler.tags = ["tools"];
 handler.command = /^add(vn|msg|video|audio|img|stic?ker|gif)$/;
