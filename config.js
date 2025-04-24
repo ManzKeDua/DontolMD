@@ -7,7 +7,7 @@ global.mods = ["6288989721627"]; // Moderator
 global.prems = ["6288989721627"]; // Premium
 global.numberbot = "6288989721627";
 global.nameowner = "manzxy";
-global.pairing = "MANZKENZ";
+global.pairing = "MANZKENZ"; // code pairing
 global.nomorowner = "6288989721627";
 
 
@@ -19,12 +19,15 @@ global.fastbit_apikey = "";
 global.version = "3.2.4";
 global.wm = "© manzxy";
 global.isPairing = true;
-global.wait = "*[ Loading ] Plase Wait...*";
-global.eror = "*Error System*";
-global.done = "*Success Result*";
 global.packname = "Request By";
 global.author = `Time : ${moment.tz("Asia/Jakarta")}`;
 
+/*-------[ RESPONSE ]--------*/
+global.res = {
+    wait: '*[ Loading ] Plase Wait...*',
+    done: '*Success Result*',
+    eror: '*Error System*'
+}
 
 /*--------[ THUMBNAIL SETTING ]------------*/
 global.thumb = "https://i.pinimg.com/originals/3d/32/b6/3d32b6ddc0aa71201fa76a6a2a8cd3c6.jpg";
