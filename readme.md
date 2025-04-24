@@ -1,6 +1,13 @@
 # **DontolMD** 
 ![cover](https://files.catbox.moe/ol1d3u.jpg)
 
+
+<p align="center">
+<a href="https://wa.me/62889897216271"><img title="Grup" src="https://img.shields.io/badge/Contact to Owner-black.svg?style=for-the-badge&logo=whatsapp"></a>
+</p>
+<p align="center">
+<a href="https://chat.whatsapp.com/EGCYoCMmvQ2FGNcLNOjYyj"><img title="Grup" src="https://img.shields.io/badge/Grup WhatsApp Bot-green.svg?style=for-the-badge&logo=whatsapp"></a>
+ 
 ## kelebihan
 ```javascript
 easy codding
